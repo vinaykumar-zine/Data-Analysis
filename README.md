@@ -5,7 +5,7 @@
 create a server directory in your desired location. Go into the directory and open terminal
 
 ```
-git clone https://github.com/vinaykumar-zine/Data-Analysis-.git
+git clone https://github.com/vinaykumar-zine/Data-Analysis.git
 ```
 Now you have the code!<br/>
 
