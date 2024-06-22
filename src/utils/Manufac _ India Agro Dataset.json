@@ -1,0 +1,7386 @@
+[
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 154,
+    "yield": 408,
+    "area": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 30,
+    "yield": 88,
+    "area": 58.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 35,
+    "yield": 775,
+    "area": 44.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 441,
+    "area": 191
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 8,
+    "yield": 368,
+    "area": 20.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 33,
+    "yield": 1043,
+    "area": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 206,
+    "yield": 668,
+    "area": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 571,
+    "yield": 33422,
+    "area": 17.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 731,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1950",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 65,
+    "yield": 663,
+    "area": 98
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 161,
+    "yield": 414,
+    "area": 389
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 33,
+    "yield": 85,
+    "area": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 32,
+    "yield": 649,
+    "area": 49.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 448,
+    "area": 188
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 393,
+    "area": 24
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 47,
+    "yield": 1074,
+    "area": 7.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 213,
+    "yield": 714,
+    "area": 298
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 616,
+    "yield": 31786,
+    "area": 19.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 2,
+    "yield": 723,
+    "area": 2.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1951",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 62,
+    "yield": 653,
+    "area": 95
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 196,
+    "yield": 462,
+    "area": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 33,
+    "yield": 89,
+    "area": 63.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 29,
+    "yield": 611,
+    "area": 48
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 92,
+    "yield": 463,
+    "area": 198
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 408,
+    "area": 21.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 1028,
+    "area": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 229,
+    "yield": 764,
+    "area": 300
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 510,
+    "yield": 29495,
+    "area": 17.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 675,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1952",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 75,
+    "yield": 763,
+    "area": 98
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 230,
+    "yield": 506,
+    "area": 454
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 41,
+    "yield": 100,
+    "area": 69.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 35,
+    "yield": 811,
+    "area": 42.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 106,
+    "yield": 489,
+    "area": 217
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 389,
+    "area": 22.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 38,
+    "yield": 992,
+    "area": 6.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 282,
+    "yield": 902,
+    "area": 313
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 444,
+    "yield": 31497,
+    "area": 14.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 737,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1953",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 750,
+    "area": 107
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 228,
+    "yield": 520,
+    "area": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 45,
+    "yield": 100,
+    "area": 75.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 43,
+    "yield": 766,
+    "area": 55.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 500,
+    "area": 219
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 425,
+    "area": 24.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 39,
+    "yield": 1021,
+    "area": 6.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 252,
+    "yield": 820,
+    "area": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 587,
+    "yield": 36303,
+    "area": 16.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 737,
+    "area": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1954",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 90,
+    "yield": 803,
+    "area": 113
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 195,
+    "yield": 449,
+    "area": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 42,
+    "yield": 88,
+    "area": 80.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 39,
+    "yield": 752,
+    "area": 51.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 476,
+    "area": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 336,
+    "area": 25.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 54,
+    "yield": 1038,
+    "area": 9.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 276,
+    "yield": 874,
+    "area": 315
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 605,
+    "yield": 32779,
+    "area": 18.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 739,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1955",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 88,
+    "yield": 708,
+    "area": 124
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 199,
+    "yield": 473,
+    "area": 420
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 49,
+    "yield": 104,
+    "area": 80.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 44,
+    "yield": 783,
+    "area": 55.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 116,
+    "yield": 495,
+    "area": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 411,
+    "area": 25.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 977,
+    "area": 10.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 290,
+    "yield": 900,
+    "area": 323
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 691,
+    "yield": 33683,
+    "area": 20.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 728,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1956",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 94,
+    "yield": 695,
+    "area": 135
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 212,
+    "yield": 495,
+    "area": 429
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 50,
+    "yield": 105,
+    "area": 80.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 47,
+    "yield": 734,
+    "area": 64.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 96,
+    "yield": 424,
+    "area": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 387,
+    "area": 24.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 944,
+    "area": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 255,
+    "yield": 790,
+    "area": 323
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 712,
+    "yield": 34325,
+    "area": 20.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 2,
+    "yield": 669,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1957",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 682,
+    "area": 117
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 232,
+    "yield": 519,
+    "area": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 49,
+    "yield": 104,
+    "area": 79.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 52,
+    "yield": 828,
+    "area": 62.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 132,
+    "yield": 541,
+    "area": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 426,
+    "area": 24.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 69,
+    "yield": 1130,
+    "area": 11
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 309,
+    "yield": 930,
+    "area": 332
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 734,
+    "yield": 37658,
+    "area": 19.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 836,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1958",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 789,
+    "area": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 229,
+    "yield": 522,
+    "area": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 37,
+    "yield": 86,
+    "area": 73
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 46,
+    "yield": 708,
+    "area": 64.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 118,
+    "yield": 475,
+    "area": 248
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 11,
+    "yield": 365,
+    "area": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 57,
+    "yield": 1049,
+    "area": 9.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 317,
+    "yield": 937,
+    "area": 338
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 778,
+    "yield": 36414,
+    "area": 21.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 716,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1959",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 103,
+    "yield": 772,
+    "area": 134
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 237,
+    "yield": 528,
+    "area": 450
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 56,
+    "yield": 125,
+    "area": 76.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 48,
+    "yield": 745,
+    "area": 64.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 127,
+    "yield": 539,
+    "area": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 14,
+    "yield": 467,
+    "area": 28.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 1049,
+    "area": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 346,
+    "yield": 1013,
+    "area": 341
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1100,
+    "yield": 45549,
+    "area": 24.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 766,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1960",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 851,
+    "area": 129
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 232,
+    "yield": 519,
+    "area": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 49,
+    "yield": 103,
+    "area": 79.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 50,
+    "yield": 725,
+    "area": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 118,
+    "yield": 485,
+    "area": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 14,
+    "yield": 425,
+    "area": 31.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 82,
+    "yield": 1104,
+    "area": 13.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 357,
+    "yield": 1028,
+    "area": 347
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1040,
+    "yield": 42349,
+    "area": 24.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 811,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1961",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 121,
+    "yield": 890,
+    "area": 136
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 246,
+    "yield": 556,
+    "area": 443
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 55,
+    "yield": 122,
+    "area": 77.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 695,
+    "area": 72.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 115,
+    "yield": 475,
+    "area": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 13,
+    "yield": 417,
+    "area": 31.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 1041,
+    "area": 12.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 332,
+    "yield": 931,
+    "area": 357
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 919,
+    "yield": 40996,
+    "area": 22.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 842,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1962",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 108,
+    "yield": 793,
+    "area": 136
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 237,
+    "yield": 540,
+    "area": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 119,
+    "area": 82.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 769,
+    "area": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 101,
+    "yield": 416,
+    "area": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 300,
+    "area": 30.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 1130,
+    "area": 12.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 370,
+    "yield": 1033,
+    "area": 358
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1042,
+    "yield": 46353,
+    "area": 22.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 817,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1963",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 99,
+    "yield": 730,
+    "area": 135
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 254,
+    "yield": 514,
+    "area": 444
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 60,
+    "yield": 122,
+    "area": 83.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 60,
+    "yield": 814,
+    "area": 73.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 124,
+    "yield": 520,
+    "area": 239
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 15,
+    "yield": 507,
+    "area": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 77,
+    "yield": 1136,
+    "area": 12.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 393,
+    "yield": 1078,
+    "area": 365
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1219,
+    "yield": 46838,
+    "area": 26
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 876,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1964",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 123,
+    "yield": 913,
+    "area": 134
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 214,
+    "yield": 483,
+    "area": 443
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 49,
+    "yield": 104,
+    "area": 79.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 43,
+    "yield": 554,
+    "area": 77
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 99,
+    "yield": 438,
+    "area": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 13,
+    "yield": 446,
+    "area": 29.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 936,
+    "area": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 306,
+    "yield": 862,
+    "area": 355
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1240,
+    "yield": 43717,
+    "area": 28.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 778,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1965",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 104,
+    "yield": 827,
+    "area": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 241,
+    "yield": 533,
+    "area": 451
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 114,
+    "area": 78.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 44,
+    "yield": 604,
+    "area": 73
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 377,
+    "area": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 12,
+    "yield": 408,
+    "area": 30.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 66,
+    "yield": 1058,
+    "area": 11.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 304,
+    "yield": 863,
+    "area": 353
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 928,
+    "yield": 40336,
+    "area": 23
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 834,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1966",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 114,
+    "yield": 887,
+    "area": 128
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 288,
+    "yield": 608,
+    "area": 473
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 123,
+    "area": 80
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 57,
+    "yield": 759,
+    "area": 75.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 121,
+    "yield": 534,
+    "area": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 16,
+    "yield": 483,
+    "area": 32.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 76,
+    "yield": 1137,
+    "area": 12
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 376,
+    "yield": 1032,
+    "area": 364
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 955,
+    "yield": 40665,
+    "area": 20.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 871,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1967",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 165,
+    "yield": 1103,
+    "area": 150
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 252,
+    "yield": 545,
+    "area": 462
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 55,
+    "yield": 122,
+    "area": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 46,
+    "yield": 653,
+    "area": 70.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 104,
+    "yield": 490,
+    "area": 213
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 14,
+    "yield": 469,
+    "area": 28.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 38,
+    "yield": 855,
+    "area": 8.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 398,
+    "yield": 1076,
+    "area": 370
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1247,
+    "yield": 49236,
+    "area": 25.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 821,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1968",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 187,
+    "yield": 1169,
+    "area": 160
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 273,
+    "yield": 578,
+    "area": 472
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 56,
+    "yield": 122,
+    "area": 77.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 720,
+    "area": 71.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 117,
+    "yield": 531,
+    "area": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 16,
+    "yield": 493,
+    "area": 31.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 1120,
+    "area": 10.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 404,
+    "yield": 1073,
+    "area": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1350,
+    "yield": 49121,
+    "area": 27.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 770,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1969",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 201,
+    "yield": 1208,
+    "area": 166
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 306,
+    "yield": 665,
+    "area": 460
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1102,
+    "yield": 814,
+    "area": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 48,
+    "yield": 106,
+    "area": 76.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 61,
+    "yield": 834,
+    "area": 73.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 118,
+    "yield": 524,
+    "area": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 20,
+    "yield": 594,
+    "area": 33.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 62,
+    "yield": 1032,
+    "area": 10.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 422,
+    "yield": 1123,
+    "area": 376
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 0,
+    "yield": 426,
+    "area": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1264,
+    "yield": 48322,
+    "area": 26.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4190,
+    "yield": 1182,
+    "area": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 810,
+    "area": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1970",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 238,
+    "yield": 1307,
+    "area": 182
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 246,
+    "yield": 564,
+    "area": 436
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 690,
+    "yield": 498,
+    "area": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 70,
+    "yield": 151,
+    "area": 78
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 62,
+    "yield": 823,
+    "area": 75.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 111,
+    "yield": 501,
+    "area": 222
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 14,
+    "yield": 396,
+    "area": 36.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 1107,
+    "area": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 431,
+    "yield": 1141,
+    "area": 378
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 0,
+    "yield": 426,
+    "area": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1136,
+    "yield": 47511,
+    "area": 23.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4350,
+    "yield": 1221,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 914,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1971",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 264,
+    "yield": 1380,
+    "area": 191
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 231,
+    "yield": 548,
+    "area": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 911,
+    "yield": 620,
+    "area": 1.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 57,
+    "yield": 127,
+    "area": 76.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 41,
+    "yield": 585,
+    "area": 69.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 99,
+    "yield": 474,
+    "area": 209
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 18,
+    "yield": 545,
+    "area": 33.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 61,
+    "yield": 1104,
+    "area": 9.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 392,
+    "yield": 1070,
+    "area": 367
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 0,
+    "yield": 819,
+    "area": 0.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1249,
+    "yield": 50933,
+    "area": 24.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4560,
+    "yield": 1271,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 837,
+    "area": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1972",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 247,
+    "yield": 1271,
+    "area": 195
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 288,
+    "yield": 623,
+    "area": 462
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 864,
+    "yield": 555,
+    "area": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 63,
+    "yield": 142,
+    "area": 75.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 59,
+    "yield": 845,
+    "area": 70.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 427,
+    "area": 234
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 17,
+    "yield": 493,
+    "area": 34.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 77,
+    "yield": 1188,
+    "area": 11.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 441,
+    "yield": 1151,
+    "area": 383
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 0,
+    "yield": 829,
+    "area": 0.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1408,
+    "yield": 51163,
+    "area": 27.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4720,
+    "yield": 1311,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1001,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1973",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 218,
+    "yield": 1172,
+    "area": 186
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 261,
+    "yield": 606,
+    "area": 432
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 925,
+    "yield": 592,
+    "area": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 161,
+    "area": 75.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 724,
+    "area": 70.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 455,
+    "area": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 23,
+    "yield": 612,
+    "area": 36.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 1068,
+    "area": 9.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 396,
+    "yield": 1045,
+    "area": 379
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 1,
+    "yield": 768,
+    "area": 0.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1443,
+    "yield": 49855,
+    "area": 28.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4890,
+    "yield": 1353,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 954,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1974",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 241,
+    "yield": 1338,
+    "area": 180
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 304,
+    "yield": 694,
+    "area": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 840,
+    "yield": 490,
+    "area": 1.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 60,
+    "yield": 138,
+    "area": 73.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 935,
+    "area": 72.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 130,
+    "yield": 533,
+    "area": 245
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 19,
+    "yield": 580,
+    "area": 33.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 59,
+    "yield": 1164,
+    "area": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 487,
+    "yield": 1235,
+    "area": 395
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 1,
+    "yield": 975,
+    "area": 0.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1406,
+    "yield": 50903,
+    "area": 27.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 4870,
+    "yield": 1341,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 950,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1975",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 288,
+    "yield": 1410,
+    "area": 205
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 289,
+    "yield": 689,
+    "area": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1023,
+    "yield": 712,
+    "area": 1.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 144,
+    "area": 68.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 747,
+    "area": 70.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 114,
+    "yield": 494,
+    "area": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 16,
+    "yield": 496,
+    "area": 31.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 71,
+    "yield": 1173,
+    "area": 10.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 419,
+    "yield": 1089,
+    "area": 385
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 1,
+    "yield": 988,
+    "area": 1.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1530,
+    "yield": 53383,
+    "area": 28.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5120,
+    "yield": 1407,
+    "area": 3.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 969,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1976",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 290,
+    "yield": 1387,
+    "area": 209
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 300,
+    "yield": 710,
+    "area": 423
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1251,
+    "yield": 840,
+    "area": 1.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 157,
+    "area": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 61,
+    "yield": 866,
+    "area": 70.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 120,
+    "yield": 510,
+    "area": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 17,
+    "yield": 460,
+    "area": 35.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 1108,
+    "area": 11.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 527,
+    "yield": 1308,
+    "area": 403
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 2,
+    "yield": 940,
+    "area": 2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1770,
+    "yield": 56160,
+    "area": 31.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5560,
+    "yield": 1519,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 979,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1977",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 318,
+    "yield": 1480,
+    "area": 215
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 304,
+    "yield": 721,
+    "area": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1105,
+    "yield": 706,
+    "area": 1.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 167,
+    "area": 81.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 62,
+    "yield": 835,
+    "area": 74.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 122,
+    "yield": 515,
+    "area": 237
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 19,
+    "yield": 525,
+    "area": 35.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 83,
+    "yield": 1186,
+    "area": 12.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 538,
+    "yield": 1328,
+    "area": 405
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 975,
+    "area": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1517,
+    "yield": 49114,
+    "area": 30.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5640,
+    "yield": 1528,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1109,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1978",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 355,
+    "yield": 1568,
+    "area": 226
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 270,
+    "yield": 652,
+    "area": 414
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1498,
+    "yield": 889,
+    "area": 1.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 77,
+    "yield": 160,
+    "area": 81.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 805,
+    "area": 71.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 385,
+    "area": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 14,
+    "yield": 411,
+    "area": 34.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 1177,
+    "area": 12.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 423,
+    "yield": 1074,
+    "area": 394
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 568,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1288,
+    "yield": 49358,
+    "area": 26.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5440,
+    "yield": 1455,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 1031,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1979",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 318,
+    "yield": 1436,
+    "area": 222
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 290,
+    "yield": 695,
+    "area": 418
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1187,
+    "yield": 624,
+    "area": 1.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 70,
+    "yield": 152,
+    "area": 78.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 50,
+    "yield": 736,
+    "area": 68
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 106,
+    "yield": 473,
+    "area": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 23,
+    "yield": 560,
+    "area": 41.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 82,
+    "yield": 1130,
+    "area": 13
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 536,
+    "yield": 1336,
+    "area": 402
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 728,
+    "area": 6.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1543,
+    "yield": 57844,
+    "area": 26.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5696,
+    "yield": 1491,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1065,
+    "area": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1980",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 363,
+    "yield": 1630,
+    "area": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 311,
+    "yield": 733,
+    "area": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1521,
+    "yield": 785,
+    "area": 1.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 79,
+    "yield": 166,
+    "area": 80.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 972,
+    "area": 74.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 115,
+    "yield": 483,
+    "area": 238
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 24,
+    "yield": 541,
+    "area": 44
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 1311,
+    "area": 11.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 533,
+    "yield": 1308,
+    "area": 407
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 741,
+    "area": 4.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1864,
+    "yield": 58359,
+    "area": 31.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5604,
+    "yield": 1461,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1172,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1981",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 375,
+    "yield": 1691,
+    "area": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 278,
+    "yield": 685,
+    "area": 404
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1300,
+    "yield": 646,
+    "area": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 75,
+    "yield": 163,
+    "area": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 732,
+    "area": 72.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 119,
+    "yield": 519,
+    "area": 228
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 22,
+    "yield": 577,
+    "area": 38.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 1265,
+    "area": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 471,
+    "yield": 1231,
+    "area": 383
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 637,
+    "area": 7.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1895,
+    "yield": 56441,
+    "area": 33.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5607,
+    "yield": 1422,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1157,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1982",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 428,
+    "yield": 1816,
+    "area": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 339,
+    "yield": 813,
+    "area": 417
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1050,
+    "yield": 507,
+    "area": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 64,
+    "yield": 141,
+    "area": 77.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 71,
+    "yield": 940,
+    "area": 75.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 129,
+    "yield": 548,
+    "area": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 26,
+    "yield": 673,
+    "area": 38.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 77,
+    "yield": 1320,
+    "area": 10.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 601,
+    "yield": 1457,
+    "area": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 735,
+    "area": 8.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1741,
+    "yield": 55978,
+    "area": 31.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 5815,
+    "yield": 1468,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1120,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1983",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 455,
+    "yield": 1843,
+    "area": 247
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 312,
+    "yield": 795,
+    "area": 392
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1951,
+    "yield": 936,
+    "area": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 85,
+    "yield": 196,
+    "area": 73.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 64,
+    "yield": 898,
+    "area": 71.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 120,
+    "yield": 526,
+    "area": 227
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 31,
+    "yield": 771,
+    "area": 39.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 78,
+    "yield": 1242,
+    "area": 11.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 583,
+    "yield": 1417,
+    "area": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 768,
+    "area": 12.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1703,
+    "yield": 57673,
+    "area": 29.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 6399,
+    "yield": 1606,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1113,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1984",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 441,
+    "yield": 1870,
+    "area": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 262,
+    "yield": 664,
+    "area": 395
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1225,
+    "yield": 571,
+    "area": 2.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 87,
+    "yield": 197,
+    "area": 75.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 719,
+    "area": 71.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 134,
+    "yield": 547,
+    "area": 244
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 27,
+    "yield": 674,
+    "area": 39.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 127,
+    "yield": 1524,
+    "area": 15
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 638,
+    "yield": 1552,
+    "area": 411
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 764,
+    "area": 13.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1707,
+    "yield": 59889,
+    "area": 28.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 6562,
+    "yield": 1641,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 1111,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1985",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 471,
+    "yield": 2046,
+    "area": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 268,
+    "yield": 675,
+    "area": 397
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1921,
+    "yield": 891,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 69,
+    "yield": 169,
+    "area": 69.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 59,
+    "yield": 841,
+    "area": 69.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 117,
+    "yield": 506,
+    "area": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 26,
+    "yield": 700,
+    "area": 37.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 1454,
+    "area": 10.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 606,
+    "yield": 1471,
+    "area": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 584,
+    "area": 15.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1861,
+    "yield": 60444,
+    "area": 30.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 6246,
+    "yield": 1508,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1187,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1986",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 443,
+    "yield": 1916,
+    "area": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 264,
+    "yield": 721,
+    "area": 366
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1227,
+    "yield": 563,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 64,
+    "yield": 168,
+    "area": 64.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 59,
+    "yield": 855,
+    "area": 68.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 515,
+    "area": 213
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 35,
+    "yield": 748,
+    "area": 46.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 1274,
+    "area": 9.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 569,
+    "yield": 1465,
+    "area": 388
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 582,
+    "area": 15.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 1967,
+    "yield": 60006,
+    "area": 32.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 6743,
+    "yield": 1628,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 1155,
+    "area": 3.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1987",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 462,
+    "yield": 2002,
+    "area": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 315,
+    "yield": 814,
+    "area": 387
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2147,
+    "yield": 972,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 87,
+    "yield": 202,
+    "area": 73.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 97,
+    "yield": 1132,
+    "area": 85.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 139,
+    "yield": 598,
+    "area": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 44,
+    "yield": 906,
+    "area": 48.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 79,
+    "yield": 1540,
+    "area": 9.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 705,
+    "yield": 1689,
+    "area": 417
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 16,
+    "yield": 892,
+    "area": 17.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2030,
+    "yield": 60992,
+    "area": 33.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7011,
+    "yield": 1693,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1307,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1988",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 541,
+    "yield": 2244,
+    "area": 241
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 348,
+    "yield": 922,
+    "area": 377
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1181,
+    "yield": 534,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 114,
+    "yield": 252,
+    "area": 76.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 81,
+    "yield": 930,
+    "area": 87.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 129,
+    "yield": 549,
+    "area": 234
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 41,
+    "yield": 831,
+    "area": 49.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 83,
+    "yield": 1646,
+    "area": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 736,
+    "yield": 1745,
+    "area": 422
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 18,
+    "yield": 801,
+    "area": 22.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2256,
+    "yield": 65612,
+    "area": 34.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 6841,
+    "yield": 1652,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1335,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1989",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 499,
+    "yield": 2121,
+    "area": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 327,
+    "yield": 900,
+    "area": 363
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1697,
+    "yield": 759,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 98,
+    "yield": 225,
+    "area": 74.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 75,
+    "yield": 904,
+    "area": 83.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 143,
+    "yield": 578,
+    "area": 247
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 52,
+    "yield": 904,
+    "area": 57.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 92,
+    "yield": 1634,
+    "area": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 743,
+    "yield": 1740,
+    "area": 427
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 26,
+    "yield": 1015,
+    "area": 25.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2411,
+    "yield": 65395,
+    "area": 36.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7203,
+    "yield": 1727,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1353,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1990",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 551,
+    "yield": 2281,
+    "area": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 260,
+    "yield": 778,
+    "area": 334
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1800,
+    "yield": 805,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 97,
+    "yield": 216,
+    "area": 76.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 71,
+    "yield": 818,
+    "area": 86.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 120,
+    "yield": 533,
+    "area": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 59,
+    "yield": 895,
+    "area": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 103,
+    "yield": 1662,
+    "area": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 747,
+    "yield": 1751,
+    "area": 427
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 25,
+    "yield": 782,
+    "area": 31.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2540,
+    "yield": 66069,
+    "area": 38.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7542,
+    "yield": 1800,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1369,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1991",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 557,
+    "yield": 2394,
+    "area": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 366,
+    "yield": 1063,
+    "area": 344
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1694,
+    "yield": 758,
+    "area": 2.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 114,
+    "yield": 257,
+    "area": 75.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 1049,
+    "area": 81.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 128,
+    "yield": 573,
+    "area": 224
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 48,
+    "yield": 776,
+    "area": 61.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 1658,
+    "area": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 729,
+    "yield": 1744,
+    "area": 418
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 34,
+    "yield": 894,
+    "area": 37.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2280,
+    "yield": 63843,
+    "area": 35.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7039,
+    "yield": 1664,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1425,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1992",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 572,
+    "yield": 2327,
+    "area": 246
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 308,
+    "yield": 939,
+    "area": 328
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2121,
+    "yield": 936,
+    "area": 2.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 107,
+    "yield": 249,
+    "area": 73.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 78,
+    "yield": 941,
+    "area": 83.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 133,
+    "yield": 598,
+    "area": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 847,
+    "area": 62.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 1713,
+    "area": 8.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 803,
+    "yield": 1888,
+    "area": 425
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 48,
+    "yield": 1086,
+    "area": 43.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2297,
+    "yield": 67120,
+    "area": 34.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7608,
+    "yield": 1796,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1463,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1993",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 598,
+    "yield": 2380,
+    "area": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 299,
+    "yield": 929,
+    "area": 322
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 1801,
+    "yield": 788,
+    "area": 2.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 119,
+    "yield": 257,
+    "area": 78.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 81,
+    "yield": 1027,
+    "area": 78.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 140,
+    "yield": 610,
+    "area": 230
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 958,
+    "area": 60.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 91,
+    "yield": 1760,
+    "area": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 818,
+    "yield": 1911,
+    "area": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 39,
+    "yield": 911,
+    "area": 43.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2755,
+    "yield": 71254,
+    "area": 38.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7529,
+    "yield": 1767,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1486,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1994",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 658,
+    "yield": 2559,
+    "area": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 290,
+    "yield": 940,
+    "area": 309
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2230,
+    "yield": 921,
+    "area": 2.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 129,
+    "yield": 242,
+    "area": 90.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 76,
+    "yield": 1007,
+    "area": 75.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 123,
+    "yield": 552,
+    "area": 223
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 60,
+    "yield": 916,
+    "area": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 88,
+    "yield": 1712,
+    "area": 9.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 770,
+    "yield": 1797,
+    "area": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 1012,
+    "area": 50.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2811,
+    "yield": 67787,
+    "area": 41.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7560,
+    "yield": 1770,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1356,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1995",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 621,
+    "yield": 2483,
+    "area": 250
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 341,
+    "yield": 1072,
+    "area": 318
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2050,
+    "yield": 816,
+    "area": 2.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 142,
+    "yield": 265,
+    "area": 91.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 1138,
+    "area": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 142,
+    "yield": 635,
+    "area": 225
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 67,
+    "yield": 1017,
+    "area": 65.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 111,
+    "yield": 1818,
+    "area": 11
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 817,
+    "yield": 1882,
+    "area": 434
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 54,
+    "yield": 987,
+    "area": 54.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2776,
+    "yield": 66496,
+    "area": 41.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 7801,
+    "yield": 1809,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1444,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1996",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 694,
+    "yield": 2679,
+    "area": 259
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 304,
+    "yield": 986,
+    "area": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2283,
+    "yield": 799,
+    "area": 2.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 109,
+    "yield": 208,
+    "area": 88.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 74,
+    "yield": 1040,
+    "area": 70.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 138,
+    "yield": 567,
+    "area": 229
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 47,
+    "yield": 668,
+    "area": 70.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 1792,
+    "area": 11.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 825,
+    "yield": 1900,
+    "area": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 65,
+    "yield": 1079,
+    "area": 59.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2795,
+    "yield": 71134,
+    "area": 39.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8356,
+    "yield": 1924,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1394,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1997",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 664,
+    "yield": 2485,
+    "area": 267
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 313,
+    "yield": 1068,
+    "area": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2650,
+    "yield": 877,
+    "area": 3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 123,
+    "yield": 224,
+    "area": 93.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 90,
+    "yield": 1214,
+    "area": 74
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 149,
+    "yield": 634,
+    "area": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 57,
+    "yield": 869,
+    "area": 65.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 98,
+    "yield": 1722,
+    "area": 10.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 861,
+    "yield": 1921,
+    "area": 448
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 71,
+    "yield": 1100,
+    "area": 64.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2887,
+    "yield": 71203,
+    "area": 40.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8552,
+    "yield": 1804,
+    "area": 4.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 7,
+    "yield": 1451,
+    "area": 5.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1998",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 713,
+    "yield": 2590,
+    "area": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 303,
+    "yield": 1034,
+    "area": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2920,
+    "yield": 947,
+    "area": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 115,
+    "yield": 225,
+    "area": 87.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 766,
+    "area": 68.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 134,
+    "yield": 635,
+    "area": 211
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 960,
+    "area": 60.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 106,
+    "yield": 1836,
+    "area": 10.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 897,
+    "yield": 1986,
+    "area": 452
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 71,
+    "yield": 1138,
+    "area": 62.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2993,
+    "yield": 70935,
+    "area": 42.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8369,
+    "yield": 1707,
+    "area": 4.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1211,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 1999",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 764,
+    "yield": 2778,
+    "area": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 311,
+    "yield": 1027,
+    "area": 303
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3012,
+    "yield": 959,
+    "area": 3.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 95,
+    "yield": 190,
+    "area": 85.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 64,
+    "yield": 977,
+    "area": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 111,
+    "yield": 544,
+    "area": 204
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 42,
+    "yield": 935,
+    "area": 44.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 106,
+    "yield": 1867,
+    "area": 10.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 850,
+    "yield": 1901,
+    "area": 447
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 53,
+    "yield": 822,
+    "area": 64.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2960,
+    "yield": 68577,
+    "area": 43.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8484,
+    "yield": 1682,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 3,
+    "yield": 1318,
+    "area": 2.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2000",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 697,
+    "yield": 2708,
+    "area": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 334,
+    "yield": 1131,
+    "area": 295
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3006,
+    "yield": 937,
+    "area": 3.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 186,
+    "area": 91.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 70,
+    "yield": 1127,
+    "area": 62.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 134,
+    "yield": 607,
+    "area": 220
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 51,
+    "yield": 1002,
+    "area": 50.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 117,
+    "yield": 2007,
+    "area": 10.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 933,
+    "yield": 2079,
+    "area": 449
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 60,
+    "yield": 940,
+    "area": 63.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2972,
+    "yield": 67370,
+    "area": 44.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8514,
+    "yield": 1670,
+    "area": 5.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1565,
+    "area": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2001",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 728,
+    "yield": 2762,
+    "area": 263
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 261,
+    "yield": 966,
+    "area": 270
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2753,
+    "yield": 839,
+    "area": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 191,
+    "area": 76.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 41,
+    "yield": 694,
+    "area": 59.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 111,
+    "yield": 543,
+    "area": 205
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 39,
+    "yield": 854,
+    "area": 45.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 113,
+    "yield": 1960,
+    "area": 10.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 718,
+    "yield": 1744,
+    "area": 412
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 47,
+    "yield": 762,
+    "area": 61.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2874,
+    "yield": 63576,
+    "area": 45.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8460,
+    "yield": 1640,
+    "area": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1506,
+    "area": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2002",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 658,
+    "yield": 2610,
+    "area": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 376,
+    "yield": 1221,
+    "area": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2705,
+    "yield": 831,
+    "area": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 137,
+    "yield": 307,
+    "area": 76
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 81,
+    "yield": 1357,
+    "area": 59.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 149,
+    "yield": 635,
+    "area": 235
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 63,
+    "yield": 1159,
+    "area": 54.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 112,
+    "yield": 2008,
+    "area": 10
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 885,
+    "yield": 2077,
+    "area": 426
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 78,
+    "yield": 1193,
+    "area": 65.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2339,
+    "yield": 59380,
+    "area": 39.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 8787,
+    "yield": 1691,
+    "area": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1486,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2003",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 722,
+    "yield": 2713,
+    "area": 266
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 335,
+    "yield": 1153,
+    "area": 290
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2755,
+    "yield": 826,
+    "area": 3.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 164,
+    "yield": 318,
+    "area": 87.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 1020,
+    "area": 66.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 131,
+    "yield": 577,
+    "area": 228
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 76,
+    "yield": 1038,
+    "area": 73.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 103,
+    "yield": 2019,
+    "area": 9.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 831,
+    "yield": 1984,
+    "area": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 69,
+    "yield": 908,
+    "area": 75.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2371,
+    "yield": 64752,
+    "area": 36.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9068,
+    "yield": 1739,
+    "area": 5.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1498,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2004",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 686,
+    "yield": 2602,
+    "area": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 341,
+    "yield": 1172,
+    "area": 291
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2740,
+    "yield": 803,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 185,
+    "yield": 362,
+    "area": 86.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 1187,
+    "area": 67.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 134,
+    "yield": 598,
+    "area": 224
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 81,
+    "yield": 1117,
+    "area": 72.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 108,
+    "yield": 2173,
+    "area": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 918,
+    "yield": 2102,
+    "area": 437
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 83,
+    "yield": 1073,
+    "area": 77.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2812,
+    "yield": 66919,
+    "area": 42
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9489,
+    "yield": 1708,
+    "area": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1351,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2005",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 694,
+    "yield": 2619,
+    "area": 265
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 339,
+    "yield": 1182,
+    "area": 287
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2880,
+    "yield": 840,
+    "area": 3.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 226,
+    "yield": 421,
+    "area": 91.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 49,
+    "yield": 866,
+    "area": 56.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 142,
+    "yield": 612,
+    "area": 232
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 74,
+    "yield": 1095,
+    "area": 67.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 113,
+    "yield": 2170,
+    "area": 9.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 934,
+    "yield": 2131,
+    "area": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 89,
+    "yield": 1063,
+    "area": 83.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3555,
+    "yield": 69022,
+    "area": 51.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9731,
+    "yield": 1716,
+    "area": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 5,
+    "yield": 1274,
+    "area": 3.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2006",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 758,
+    "yield": 2708,
+    "area": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 408,
+    "yield": 1431,
+    "area": 285
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2620,
+    "yield": 761,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 259,
+    "yield": 467,
+    "area": 94.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 92,
+    "yield": 1459,
+    "area": 62.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 148,
+    "yield": 625,
+    "area": 236
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 58,
+    "yield": 1001,
+    "area": 58.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 112,
+    "yield": 2101,
+    "area": 9.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 967,
+    "yield": 2202,
+    "area": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 1235,
+    "area": 88.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3482,
+    "yield": 68877,
+    "area": 50.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9870,
+    "yield": 1706,
+    "area": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 4,
+    "yield": 1255,
+    "area": 3.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2007",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 786,
+    "yield": 2802,
+    "area": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 400,
+    "yield": 1459,
+    "area": 275
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2623,
+    "yield": 748,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 223,
+    "yield": 403,
+    "area": 94.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 1163,
+    "area": 61.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 146,
+    "yield": 659,
+    "area": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 72,
+    "yield": 1143,
+    "area": 63
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 104,
+    "yield": 2071,
+    "area": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 992,
+    "yield": 2178,
+    "area": 455
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 99,
+    "yield": 1041,
+    "area": 95.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2850,
+    "yield": 64553,
+    "area": 44.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9728,
+    "yield": 1679,
+    "area": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 6,
+    "yield": 1456,
+    "area": 3.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2008",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 807,
+    "yield": 2907,
+    "area": 278
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 336,
+    "yield": 1212,
+    "area": 277
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2896,
+    "yield": 815,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 240,
+    "yield": 403,
+    "area": 101.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 54,
+    "yield": 991,
+    "area": 54.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 147,
+    "yield": 630,
+    "area": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 66,
+    "yield": 1183,
+    "area": 55.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 118,
+    "yield": 2349,
+    "area": 9.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 891,
+    "yield": 2125,
+    "area": 419
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 1024,
+    "area": 97.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 2923,
+    "yield": 70020,
+    "area": 41.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9912,
+    "yield": 1711,
+    "area": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 7,
+    "yield": 1559,
+    "area": 4.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2009",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 808,
+    "yield": 2839,
+    "area": 285
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 434,
+    "yield": 1531,
+    "area": 283
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3020,
+    "yield": 838,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 330,
+    "yield": 499,
+    "area": 112.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 83,
+    "yield": 1411,
+    "area": 58.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 182,
+    "yield": 691,
+    "area": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 82,
+    "yield": 1185,
+    "area": 69
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 106,
+    "yield": 2192,
+    "area": 8.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 960,
+    "yield": 2239,
+    "area": 429
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 127,
+    "yield": 1327,
+    "area": 96
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3424,
+    "yield": 70091,
+    "area": 48.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 9667,
+    "yield": 1726,
+    "area": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 1794,
+    "area": 4.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2010",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 869,
+    "yield": 2988,
+    "area": 291
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 420,
+    "yield": 1590,
+    "area": 264
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3140,
+    "yield": 852,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 352,
+    "yield": 491,
+    "area": 121.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 70,
+    "yield": 1323,
+    "area": 52.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 171,
+    "yield": 699,
+    "area": 245
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 66,
+    "yield": 1121,
+    "area": 58.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 114,
+    "yield": 2283,
+    "area": 9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1053,
+    "yield": 2393,
+    "area": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 122,
+    "yield": 1208,
+    "area": 101.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3610,
+    "yield": 71668,
+    "area": 50.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 10955,
+    "yield": 1956,
+    "area": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 8,
+    "yield": 1613,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2011",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 949,
+    "yield": 3177,
+    "area": 299
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 400,
+    "yield": 1617,
+    "area": 248
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3182,
+    "yield": 846,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 342,
+    "yield": 486,
+    "area": 119.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 47,
+    "yield": 996,
+    "area": 47.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 183,
+    "yield": 789,
+    "area": 233
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 80,
+    "yield": 1262,
+    "area": 63.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 109,
+    "yield": 2281,
+    "area": 8.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1052,
+    "yield": 2461,
+    "area": 428
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 147,
+    "yield": 1354,
+    "area": 108.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3412,
+    "yield": 68254,
+    "area": 50
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 11351,
+    "yield": 2027,
+    "area": 5.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 7,
+    "yield": 1542,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2012",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 935,
+    "yield": 3117,
+    "area": 300
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 433,
+    "yield": 1677,
+    "area": 257
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3045,
+    "yield": 799,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 359,
+    "yield": 532,
+    "area": 116.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 97,
+    "yield": 1750,
+    "area": 55.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 193,
+    "yield": 764,
+    "area": 252
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 79,
+    "yield": 1188,
+    "area": 67
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 117,
+    "yield": 2449,
+    "area": 8.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1067,
+    "yield": 2424,
+    "area": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 119,
+    "yield": 983,
+    "area": 122
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3521,
+    "yield": 69839,
+    "area": 50.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 12088,
+    "yield": 2121,
+    "area": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 7,
+    "yield": 1612.38,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2013",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 959,
+    "yield": 3075,
+    "area": 312
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 429,
+    "yield": 1729,
+    "area": 242
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3270,
+    "yield": 847,
+    "area": 4.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 348,
+    "yield": 461,
+    "area": 130.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 74,
+    "yield": 1400,
+    "area": 46.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 172,
+    "yield": 744,
+    "area": 231
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 63,
+    "yield": 1089,
+    "area": 57.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 111,
+    "yield": 2550,
+    "area": 8.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1055,
+    "yield": 2390,
+    "area": 439
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 104,
+    "yield": 950,
+    "area": 110.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3623,
+    "yield": 69859,
+    "area": 51.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 11972,
+    "yield": 2113,
+    "area": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 9,
+    "yield": 1830,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2014",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 865,
+    "yield": 2872,
+    "area": 310
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 385,
+    "yield": 1579,
+    "area": 244
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3480,
+    "yield": 876,
+    "area": 4.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 300,
+    "yield": 415,
+    "area": 122.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 67,
+    "yield": 1465,
+    "area": 45.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 164,
+    "yield": 656,
+    "area": 249
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 68,
+    "yield": 1183,
+    "area": 57.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 105,
+    "yield": 2421,
+    "area": 7.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1044,
+    "yield": 2400,
+    "area": 435
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 86,
+    "yield": 738,
+    "area": 116
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3484,
+    "yield": 70720,
+    "area": 49.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 12331,
+    "yield": 2176,
+    "area": 5.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 8,
+    "yield": 1781,
+    "area": 5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2015",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 923,
+    "yield": 3034,
+    "area": 304
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 438,
+    "yield": 1750,
+    "area": 250
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3120,
+    "yield": 761,
+    "area": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 326,
+    "yield": 512,
+    "area": 108.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 75,
+    "yield": 1398,
+    "area": 53.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 231,
+    "yield": 786,
+    "area": 294
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 79,
+    "yield": 1304,
+    "area": 60.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 110,
+    "yield": 2585,
+    "area": 7.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1097,
+    "yield": 2494,
+    "area": 440
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 132,
+    "yield": 1177,
+    "area": 111.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3061,
+    "yield": 69001,
+    "area": 44.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 12505,
+    "yield": 2165,
+    "area": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 8,
+    "yield": 2016,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2016",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 985,
+    "yield": 3200,
+    "area": 308
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 470,
+    "yield": 1934,
+    "area": 243
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3160,
+    "yield": 765,
+    "area": 4.5
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 328,
+    "yield": 443,
+    "area": 126
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 93,
+    "yield": 1893,
+    "area": 49.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 254,
+    "yield": 853,
+    "area": 298
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 84,
+    "yield": 1410,
+    "area": 59.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 2435,
+    "area": 7.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1128,
+    "yield": 2576,
+    "area": 438
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 109,
+    "yield": 1058,
+    "area": 103
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3799,
+    "yield": 80198,
+    "area": 47.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 13251,
+    "yield": 2208,
+    "area": 5.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 10,
+    "yield": 2317,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2017",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 999,
+    "yield": 3368,
+    "area": 297
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 431,
+    "yield": 1944,
+    "area": 221
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3195,
+    "yield": 767,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 280,
+    "yield": 378,
+    "area": 126.14
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 67,
+    "yield": 1422,
+    "area": 47.31
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 221,
+    "yield": 757,
+    "area": 292
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 93,
+    "yield": 1511,
+    "area": 61.2
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 98,
+    "yield": 2508,
+    "area": 7.05
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1165,
+    "yield": 2638,
+    "area": 442
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 133,
+    "yield": 1192,
+    "area": 111.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 4054,
+    "yield": 80105,
+    "area": 50.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 13500,
+    "yield": 2109,
+    "area": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 7,
+    "yield": 1610,
+    "area": 4.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2018",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 1036,
+    "yield": 3533,
+    "area": 293
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 478,
+    "yield": 1991,
+    "area": 240
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 2980,
+    "yield": 713,
+    "area": 4.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 361,
+    "yield": 454.93,
+    "area": 134.8
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 100,
+    "yield": 2062.51,
+    "area": 48.3
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 230,
+    "yield": 823,
+    "area": 280
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 91,
+    "yield": 1330.7,
+    "area": 68.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 99,
+    "yield": 2640.55,
+    "area": 6.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1189,
+    "yield": 2722,
+    "area": 437
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 112,
+    "yield": 920.7,
+    "area": 121.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3705,
+    "yield": 80496.72,
+    "area": 46
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 13608,
+    "yield": 2126.27,
+    "area": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": 8,
+    "yield": 1982,
+    "area": 4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2019",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 1079,
+    "yield": 3440,
+    "area": 314
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "CoarseCereals",
+    "Crop Production (UOM:t(Tonnes))": 512,
+    "yield": 2146,
+    "area": 238
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Coffee",
+    "Crop Production (UOM:t(Tonnes))": 3538,
+    "yield": 790,
+    "area": 4.7
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "CottonLint",
+    "Crop Production (UOM:t(Tonnes))": 354,
+    "yield": 462.46,
+    "area": 130.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Groundnut",
+    "Crop Production (UOM:t(Tonnes))": 102,
+    "yield": 1675.62,
+    "area": 60.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Pulses",
+    "Crop Production (UOM:t(Tonnes))": 257,
+    "yield": 892,
+    "area": 288
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "RapeseedMustard",
+    "Crop Production (UOM:t(Tonnes))": 101,
+    "yield": 1511.16,
+    "area": 66.9
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "RawJuteMesta",
+    "Crop Production (UOM:t(Tonnes))": 96,
+    "yield": 2594.89,
+    "area": 6.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Rice",
+    "Crop Production (UOM:t(Tonnes))": 1223,
+    "yield": 2713,
+    "area": 451
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Soyabean",
+    "Crop Production (UOM:t(Tonnes))": 129,
+    "yield": 1006.78,
+    "area": 128.1
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Sugarcane",
+    "Crop Production (UOM:t(Tonnes))": 3993,
+    "yield": 82205.14,
+    "area": 48.6
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Tea",
+    "Crop Production (UOM:t(Tonnes))": 12803,
+    "yield": 2004.73,
+    "area": 6.4
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Tobacco",
+    "Crop Production (UOM:t(Tonnes))": "",
+    "yield": "",
+    "area": ""
+  },
+  {
+    "Country": "India",
+    "Year": "Financial Year (Apr - Mar), 2020",
+    "crop": "Wheat",
+    "Crop Production (UOM:t(Tonnes))": 1095,
+    "yield": 3464,
+    "area": 316
+  }
+]
