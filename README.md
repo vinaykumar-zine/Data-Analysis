@@ -23,3 +23,5 @@ yarn run dev
 
 By the way the nitiayog data is in utils/Manufac _ India Agro Dataset.json file
 
+![Screenshot](./screenshots/Screenshot%20from%202024-06-23%2005-09-53.png)
+![Screenshot](./screenshots/Screenshot%20from%202024-06-23%2005-10-05.png)
