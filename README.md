@@ -14,8 +14,12 @@ Now you have the code!<br/>
 ```
 cd Data-Analysis
 yarn install
-yarn start
+yarn run dev
 ```
 
 ## Now you good to go 
+
+### These are some of the screen shots how the app will look. 
+
+By the way the nitiayog data is in utils/Manufac _ India Agro Dataset.json file
 
